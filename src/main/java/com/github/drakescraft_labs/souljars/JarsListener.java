@@ -1,4 +1,4 @@
-package com.github.drakescraft-labs.souljars;
+package com.github.drakescraft_labs.souljars;
 
 import java.util.List;
 import java.util.Map;
@@ -12,7 +12,7 @@ import org.bukkit.event.entity.EntityDeathEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
-import com.github.drakescraft-labs.slimefun4.api.items.SlimefunItem;
+import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItem;
 import dev.drake.dough.items.ItemUtils;
 
 public class JarsListener implements Listener {
